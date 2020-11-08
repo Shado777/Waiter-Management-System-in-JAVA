@@ -1,0 +1,3 @@
+Although the forms of the app are individualy coded
+The database is not included 
+Note for the application to work the database needs to be up and running on mysql
